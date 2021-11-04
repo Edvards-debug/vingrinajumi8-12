@@ -1,0 +1,5 @@
+C:\Users\Edza\Documents\GitHub\vingrinajumi8-12\obj\Debug\net5.0\vingrinajumi8-12.csproj.AssemblyReference.cache
+C:\Users\Edza\Documents\GitHub\vingrinajumi8-12\obj\Debug\net5.0\vingrinajumi8-12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edza\Documents\GitHub\vingrinajumi8-12\obj\Debug\net5.0\vingrinajumi8-12.AssemblyInfoInputs.cache
+C:\Users\Edza\Documents\GitHub\vingrinajumi8-12\obj\Debug\net5.0\vingrinajumi8-12.AssemblyInfo.cs
+C:\Users\Edza\Documents\GitHub\vingrinajumi8-12\obj\Debug\net5.0\vingrinajumi8-12.csproj.CoreCompileInputs.cache
