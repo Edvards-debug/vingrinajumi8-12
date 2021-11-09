@@ -2,12 +2,16 @@ using System;
 
 class GFG {
 
-// Main method
+	
 	public static void Main()
 	{
-		double x = -81;
+		double x = 12932 ;
 
-		// Input Negative value, Output square root of x
-		Console.Write(Math.Sqrt(x));
+	
+		Console.WriteLine(Math.Sqrt(x));
+		double y = -2828472;
+
+		
+		Console.Write(Math.Sqrt(y));
 	}
 }

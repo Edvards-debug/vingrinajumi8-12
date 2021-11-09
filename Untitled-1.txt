@@ -1,0 +1,5 @@
+Console.WriteLine(13 / 5.0);       // output: 2.6
+
+int a = 13;
+int b = 5;
+Console.WriteLine((double)a / b);  // output: 2.6
